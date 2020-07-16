@@ -1,5 +1,4 @@
 <script>
-    (function() {
 document.addEventListener("DOMContentLoaded", function() {
     var script = document.getElementById('46a5fbf4b31f3c647b68ee5297c311bc284ed2c2');
 
@@ -68,9 +67,7 @@ var currentScript = document.currentScript || (function() {
 })();
 
 var domain = ( (getLocation( currentScript.src )).hostname );
-
-    })();
-    </script>
+</script>
 
 
 
